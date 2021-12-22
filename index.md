@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Grupo de Ecología Térmica en Insectos
 
 You can use the [editor on GitHub](https://github.com/josecrespo89/geti/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Les damos la bienvenida al **GETi**. Estudiamos desde lo experimental, el efecto de la temperatura sobre diferentes aspectos de la ecología de los organismos. Utilizamos insectos como modelos de estudio. We study plant-insect ecology and evolution, mostly concerning plant defence against herbivory and multispecies interactions. Our approach is primarily through experimental comparisons of populations that have diverged in evolutionary history or that span a gradient of plant-insect interactions, including plant defences of native vs. invasive plants populations and of domesticated crops vs. their wild relatives.
+
+Projects in the lab are diverse, but often consider plant tolerance of herbivory and indirect defences of plants, such as the attraction of natural enemies (e.g. predaceous ants or parasitoid wasps). Almost all projects in the lab address fundamental questions in ecology and evolutionary biology with a strong applied component. Our lab is affiliated with the Centre for Sustainable Food Systems at the UBC Farm and the Biodiversity Research Centre.
+
+(C) 2020 by Juli Carrillo or as otherwise noted. The copyright holder retains all rights to the photos or other published materials. The copyright holder prohibits other uses including copying or republishing any portion of the photos without the author’s permission
 
 ```markdown
 Syntax highlighted code block
