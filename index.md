@@ -1,14 +1,12 @@
 ## Grupo de Ecología Térmica en Insectos
 
-You can use the [editor on GitHub](https://github.com/josecrespo89/geti/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://drive.google.com/file/d/1wB_C6k-tsfc4VWGc-QJZqTQXknhEHJyW/view?usp=sharing)
 
-### Markdown
-
-Les damos la bienvenida al **GETi**. Estudiamos desde lo experimental, el efecto de la temperatura sobre diferentes aspectos de la ecología de los organismos. Utilizamos insectos como modelos de estudio.
+Les damos la bienvenida al **GETi**. Estudiamos, desde lo experimental, el efecto de la temperatura sobre diferentes aspectos de la ecología de los organismos. Utilizamos insectos como modelos de estudio.
 
 Una parte central en nuestra aproximación es el OS. Nuestra filosofía es el cooperativismo. Compartir para aprender.
 
-Projects in the lab are diverse, but often consider plant tolerance of herbivory and indirect defences of plants, such as the attraction of natural enemies (e.g. predaceous ants or parasitoid wasps). Almost all projects in the lab address fundamental questions in ecology and evolutionary biology with a strong applied component. Our lab is affiliated with the Centre for Sustainable Food Systems at the UBC Farm and the Biodiversity Research Centre.
+Somos un grupo de reciente formación que forma parte de un grupo más grande, el Grupo de Investigación en Ecofisiología de Parasitoides y otros Insectos (GIEP). Projects in the lab are diverse, but often consider plant tolerance of herbivory and indirect defences of plants, such as the attraction of natural enemies (e.g. predaceous ants or parasitoid wasps). Almost all projects in the lab address fundamental questions in ecology and evolutionary biology with a strong applied component. Our lab is affiliated with the Centre for Sustainable Food Systems at the UBC Farm and the Biodiversity Research Centre.
 
 (C) 2020 by Juli Carrillo or as otherwise noted. The copyright holder retains all rights to the photos or other published materials. The copyright holder prohibits other uses including copying or republishing any portion of the photos without the author’s permission
 
