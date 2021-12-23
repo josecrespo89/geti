@@ -1,6 +1,6 @@
 ## Grupo de Ecología Térmica en Insectos
 
-![Image](./logo-geti.png)
+![Image](./logo-geti2.png)
 
 Les damos la bienvenida al **GETi**. Estudiamos, desde lo experimental, el efecto de la temperatura sobre diferentes aspectos de la ecología de los organismos. Utilizamos insectos como modelos de estudio.
 
