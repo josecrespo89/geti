@@ -6,8 +6,7 @@ Les damos la bienvenida al **GETi**. Estudiamos, desde lo experimental, el efect
 
 Una parte central en nuestra aproximación es el OS. Nuestra filosofía es el cooperativismo. Compartir para aprender.
 
-Somos un grupo de reciente formación que forma parte de un grupo más grande, el Grupo de Investigación en Ecofisiología de Parasitoides y otros Insectos (GIEP). Projects in the lab are diverse, but often consider plant tolerance of herbivory and indirect defences of plants, such as the attraction of natural enemies (e.g. predaceous ants or parasitoid wasps). Almost all projects in the lab address fundamental questions in ecology and evolutionary biology with a strong applied component. Our lab is affiliated with the Centre for Sustainable Food Systems at the UBC Farm and the Biodiversity Research Centre.
-
+Somos un grupo de reciente formación que forma parte de un grupo más grande, el Grupo de Investigación en Ecofisiología de Parasitoides y otros Insectos (GIEP). Actualmente trabajamos 
 (C) 2020 by Juli Carrillo or as otherwise noted. The copyright holder retains all rights to the photos or other published materials. The copyright holder prohibits other uses including copying or republishing any portion of the photos without the author’s permission
 
 ```markdown
